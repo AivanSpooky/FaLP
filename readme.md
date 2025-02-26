@@ -1,2 +1,1 @@
-
-  ![](LP/srago.gif)
+![](LP/srago.gif)
